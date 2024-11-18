@@ -1,7 +1,7 @@
 if SHIELD_MY_CORNE
 
 # Name must be less than 16 characters long!
-config ZMK_KEYBOARfD_NAME
+config ZMK_CORNE
     default "My Keyboard"
 
 config ZMK_SPLIT_ROLE_CENTRAL
